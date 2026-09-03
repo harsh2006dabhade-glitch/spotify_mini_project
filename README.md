@@ -7,7 +7,7 @@ This project focuses on cleaning a Spotify songs dataset using Python and Pandas
 ## Dataset
 
 * Raw dataset: `spotify_raw_data.csv`
-* Cleaned using: `spotify_miniproject_dataset_cleaning.ipynb`
+* Cleaned using: `Spotify_Miniproject.ipynb`
 
 ## Cleaning Steps
 
@@ -32,3 +32,5 @@ This project focuses on cleaning a Spotify songs dataset using Python and Pandas
 * [ ] Exploratory Data Analysis (EDA)
 * [ ] Data Visualization
 * [ ] Final Insights
+
+
